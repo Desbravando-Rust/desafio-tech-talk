@@ -1,7 +1,7 @@
 use std::io;
 
 fn anunciar(nome: &str) {
-    println!("Parabens, {}! Voce ganhou R$ 40,00 de desconto!", nome);
+    println!("Parabens, {}! Voce ganhou R$ 40,00 de desconto na compra do livro!", nome);
 }
 
 fn main() {
