@@ -38,11 +38,6 @@ Este projeto é desenvolvido em Rust. Siga os passos abaixo para instalar o Rust
     cargo run
     ```
 
-3. **(Opcional) Execute os testes**:
-
-    ```sh
-    cargo test
-    ```
 
 ## Referências
 
