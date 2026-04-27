@@ -11,5 +11,8 @@ fn main() {
         .read_line(&mut nome)
         .expect("Falha ao ler o nome");
 
+    let nome = nome.trim().to_string();
+
     anunciar(nome);
+    println!("Participante: {}", nome);
 }
