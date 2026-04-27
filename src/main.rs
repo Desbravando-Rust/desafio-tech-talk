@@ -12,5 +12,4 @@ fn main() {
         .expect("Falha ao ler o nome");
 
     anunciar(nome);
-    println!("Participante: {}", nome);
 }
