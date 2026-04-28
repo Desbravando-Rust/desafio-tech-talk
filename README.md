@@ -28,7 +28,7 @@ Este projeto é desenvolvido em Rust. Siga os passos abaixo para instalar o Rust
 1. **Clone o repositório**:
 
     ```sh
-    git clone https://github.com/seu-usuario/desafio_rust.git
+    git clone git@github.com:Desbravando-Rust/desafio-tech-talk.git
     cd desafio_rust
     ```
 
